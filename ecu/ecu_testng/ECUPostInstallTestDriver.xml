@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="ECUPostInstallTests" parallel="false" verbose="3">
+  <test name="ECUPostInstallTests" >
+	<packages>
+	      <package name="com.oracle.pqa.exalogic.zfs" />
+	      <package name="com.oracle.pqa.exalogic.ovs" />
+	      <package name="com.oracle.pqa.exalogic.nimbula" />
+	      <package name="com.oracle.pqa.exalogic.ecu" />
+		  <package name="com.oracle.pqa.exalogic.ibswitches" />
+		  <package name="com.oracle.pqa.exalogic.database" />
+		  <package name="com.oracle.pqa.exalogic.physical_server" />
+		  <package name="com.oracle.pqa.exalogic.server_test" />
+	         </packages>
+	</test><!--Test-->
+</suite> <!-- Suite -->
