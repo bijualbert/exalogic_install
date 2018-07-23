@@ -4,7 +4,7 @@
 from pylib.exalogic.config.exalogic_configuration import *;
 from tests.exalogic.ecu.ecutest_exceptions import *;
 import re;
-__author__ = "Bhavya"
+__author__ = "Biju"
 __date__ = "$Apr 17, 2015 10:57:16 AM$"
 
 class ControlVMTests(object):
